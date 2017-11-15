@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Planes Art Online", "Assembly-CSharp-firstpass.csproj", "{689FA963-B507-3FBA-E0AB-18142B6CA851}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Planes Art Online", "Assembly-CSharp.csproj", "{FFAEBBEA-1960-37D9-5135-4789850FB55A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Planes Art Online", "Assembly-CSharp-Editor.csproj", "{4C756C83-2043-A664-65EE-1F4AB2AFC89F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{689FA963-B507-3FBA-E0AB-18142B6CA851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{689FA963-B507-3FBA-E0AB-18142B6CA851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{689FA963-B507-3FBA-E0AB-18142B6CA851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{689FA963-B507-3FBA-E0AB-18142B6CA851}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFAEBBEA-1960-37D9-5135-4789850FB55A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFAEBBEA-1960-37D9-5135-4789850FB55A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFAEBBEA-1960-37D9-5135-4789850FB55A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFAEBBEA-1960-37D9-5135-4789850FB55A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C756C83-2043-A664-65EE-1F4AB2AFC89F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C756C83-2043-A664-65EE-1F4AB2AFC89F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C756C83-2043-A664-65EE-1F4AB2AFC89F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C756C83-2043-A664-65EE-1F4AB2AFC89F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
